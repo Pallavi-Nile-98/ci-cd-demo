@@ -1,0 +1,20 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pallavi-Nile-98/ci-cd-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pallavi-Nile-98/ci-cd-demo/issues"
+  },
+  "homepage": "https://github.com/Pallavi-Nile-98/ci-cd-demo#readme",
+  "description": ""
+}
